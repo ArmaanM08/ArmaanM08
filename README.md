@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ArmaanM08/](https://github.com/ArmaanM08/)
 
-- 💬 Ask me about **Python, C++, JAVA, HTML, FrontEnd**
+- 💬 Ask me about **Python, C++, JAVA, FrontEnd, MySQL**
 
 - 📫 How to reach me **armaanmulani08@gmail.com**
 
